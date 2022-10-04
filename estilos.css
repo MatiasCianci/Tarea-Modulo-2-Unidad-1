@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    font-family: Verdana;
+    background: rgb(0, 36, 34);
+    background: linear-gradient(90deg, rgba(0, 36, 34, 0.00043767507002800965) 0%, rgba(9, 9, 121, 1) 29%, rgba(7, 59, 154, 1) 51%, rgba(6, 162, 160, 0.958420868347339) 59%, rgba(0, 212, 255, 1) 100%);
+    width: 300px;
+
+}
+
+p {
+    color: coral;
+    font-family: Verdana;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h3 {
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+.series{
+    border-radius: 20px;
+    background-color: aqua;
+    width: 250px;
+}
